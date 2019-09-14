@@ -3,18 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node .",
-    "jrot-init": "node init.js"
-  },
-  "bin": {
-    "jrot": "node ./bin/jrot.js"
+    "start": "node ."
   },
   "keywords": [
-    "rot13",
+    "jrot",
     "rot",
+    "rot13",
     "custom",
-    "custom rot",
-    "jrot"
+    "custom rot"
   ],
   "author": "JZ",
   "license": "MIT",
@@ -33,5 +29,5 @@
   "directories": {
     "lib": "lib"
   },
-  "description": ""
+  "description": "jrot is a character rotation and you can  costumase it"
 }
