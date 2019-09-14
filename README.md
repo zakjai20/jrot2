@@ -12,4 +12,10 @@ var rot13 = new Jrot({
     rc : 13
 })
 
+var str = "some text";
+var estr = rot13.encode(str);
+var dstr = rot13.decode(estr);
+
+console.log(str === dstr); // true
+
 ```
