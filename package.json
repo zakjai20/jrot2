@@ -1,7 +1,7 @@
 {
   "name": "jrot",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "2.0.0",
+  "main": "lib",
   "scripts": {
     "start": "node ."
   },
@@ -14,9 +14,7 @@
   ],
   "author": "JZ",
   "license": "MIT",
-  "dependencies": {
-    "express": "^4.17.1"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
