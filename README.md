@@ -13,10 +13,7 @@ var rot13 = new Jrot({
 })
 
 var str = "some text";
-<<<<<<< HEAD
-=======
 
->>>>>>> v-2.0.0
 var estr = rot13.encode(str);
 var dstr = rot13.decode(estr);
 
