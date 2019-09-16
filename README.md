@@ -11,6 +11,7 @@ var rot13 = new Jrot({
     data : new Jrot.JData([1.9], ["a","z"])
     rc : 13
 })
+// false
 
 var str = "some text";
 
